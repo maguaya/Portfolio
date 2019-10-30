@@ -1,0 +1,85 @@
+body{
+	background-color: rgb(47,40,98);
+	padding: 0;
+	margin: 0;
+
+}
+.contsix{
+
+width: 100%;
+min-height: 400px;
+background-color: (47,40,98);
+}
+.education{
+max-width: 560px;
+min-height: 400px;
+margin:0 auto;
+/*margin-bottom:30px;*/
+}
+
+
+.education h3{
+color: #fff;
+text-align: center;
+padding-bottom:10px;
+}
+.education p{
+color: #fff;
+line-height: 1.5em;
+text-align:center;
+/*padding-top:30px;
+*/
+}
+.education p, h3{
+margin-top:60px;
+
+
+}
+
+header{
+	height: 50px;
+	background-color:rgb(232,141,28);
+	padding-bottom: 30px;
+	padding:30;
+}
+.header-cont{
+	width:1200px;
+	margin: 0 auto;
+	padding: 0 auto;
+	
+	
+}
+.header-cont img{
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.main-cont img{
+	float: left;
+	padding-right:40px;
+	padding-left: 40px;
+}
+.header-cont ul{
+	float:right;
+	
+}
+	
+
+.header-cont ul li{
+	float: left;
+	list-style: none;
+	margin-top: 10px;
+	padding: 5px;
+
+
+}
+.header-cont ul li a{
+	padding-left: 20px;
+	text-transform: uppercase;
+	color:#fff;
+	text-decoration: none;
+	font-weight:bold;
+	font-size:15px;
+	font-family: ariel;
+
+}

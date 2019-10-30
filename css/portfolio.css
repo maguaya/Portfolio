@@ -1,0 +1,99 @@
+body{
+	background-color: rgb(47,40,98);
+	padding: 0;
+	margin: 0;
+}
+
+.contnine{
+width: 100%;
+background-color:rgb(47,40,98); 
+}
+
+.contnine h3, .contnine p{
+text-align: center;
+
+}
+
+
+.contnine h3{
+color: #e88d1c;
+}
+
+
+.contnine p{
+color: #fff;
+line-height: 1.5em;
+} 
+.moja, .mbili, .tatu, .nne, .tano, .sita, .saba, .nane, .tisa img{
+	transition: all 1s;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+
+
+
+.kumi{
+
+}
+
+.moja, .mbili, .tatu, .nne, .tano, .sita, .saba, .nane, .tisa img{
+
+background-color:;
+margin: 40px;
+float: left;
+padding-left: 50px;
+overflow: auto;
+/*box-shadow: 1px 2px 3px rgb(0,0,0,0.6);*/
+
+}
+
+.contten{
+    width: 100%;
+    background-color: #e88d1c;
+}
+
+header{
+	height: 50px;
+	background-color:rgb(232,141,28);
+	padding-bottom: 30px;
+
+}
+.header-cont{
+	width:1200px;
+	margin: 0 auto;
+	
+}
+.header-cont img{
+	padding: 5px;
+}
+
+.main-cont img{
+	float: right;
+	padding-right:40px;
+	padding-left: 40px;
+}
+.header-cont ul{
+	float:right;
+	
+}
+	
+
+.header-cont ul li{
+	float: left;
+	list-style: none;
+
+
+}
+.header-cont ul li a{
+	padding-left: 20px;
+	text-transform: uppercase;
+	color:#fff;
+	text-decoration: none;
+	font-weight:bold;
+	font-size:15px;
+	font-family: ariel;
+
+}
